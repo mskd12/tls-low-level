@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AES128GCM",
+            "request": "launch",
+            "mainClass": "org.code.tlsdecrypt.AES128GCM"
+        }
+    ]
+}
